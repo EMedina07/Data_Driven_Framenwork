@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-bin-5.1.1-20220819 (1)/xmlbeans-5.1.1/samples/AbstractTypes/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-bin-5.1.1-20220819 (1)/xmlbeans-5.1.1/samples/Any/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-bin-5.1.1-20220819 (1)/xmlbeans-5.1.1/samples/DateTime/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-bin-5.1.1-20220819 (1)/xmlbeans-5.1.1/samples/MixedContent/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-bin-5.1.1-20220819 (1)/xmlbeans-5.1.1/samples/OrderMatters/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-bin-5.1.1-20220819 (1)/xmlbeans-5.1.1/samples/SampleTemplate/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-bin-5.1.1-20220819 (1)/xmlbeans-5.1.1/samples/SchemaEnum/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-bin-5.1.1-20220819 (1)/xmlbeans-5.1.1/samples/SubstitutionGroup/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-bin-5.1.1-20220819 (1)/xmlbeans-5.1.1/samples/Validation/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-bin-5.1.1-20220819 (1)/xmlbeans-5.1.1/samples/XQueryXPath/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-bin-5.1.1-20220819 (1)/xmlbeans-5.1.1/samples/XmlSort/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-bin-5.1.1-20220819 (1)/xmlbeans-5.1.1/samples/XmlTree/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-bin-5.1.1-20220819 (1)/xmlbeans-5.1.1/samples/XsdConfig/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-bin-5.1.1-20220819 (1)/xmlbeans-5.1.1/samples/vxsdb/src/java" />
+    </SOURCES>
+  </library>
+</component>
